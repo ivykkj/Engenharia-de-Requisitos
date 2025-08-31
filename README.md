@@ -1,2 +1,2 @@
 # Engenharia-de-Requisitos
-Exercícios/Projetos da matéria Engenharia de Requisitos
+Atividades/Projetos da matéria Engenharia de Requisitos
